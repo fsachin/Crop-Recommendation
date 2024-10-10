@@ -1,6 +1,6 @@
 # 🌾 Crop Yield Prediction using Machine Learning
 
-![Project Logo](path/to/logo.png) <!-- Add a logo or banner image for visual appeal -->
+![Project Logo]("C:\Users\SACHIN FULARE\Pictures\Screenshots\Screenshot 2024-10-10 222523.png") <!-- Add a logo or banner image for visual appeal -->
 
 ## 🚀 Project Overview
 This project applies **Machine Learning (ML)** to agriculture to enhance **crop yield prediction** and **optimize resource usage**. By analyzing historical data, the model can forecast future crop performance and assist farmers in making informed decisions. Additionally, it features a **recommender system** to suggest the best time for using fertilizers, improving productivity.
