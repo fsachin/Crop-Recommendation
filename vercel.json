@@ -1,17 +1,7 @@
-<<<<<<< HEAD
+
 {
     "rewrites" :[
-        { "src":"/(.*)", "dest" : "/"}
+        { "source":"/(.*)", "destination" : "/"}
     ]
 }
-=======
-{
-    "version" : 2,
-    "builds" :[ 
-        {"src": "app.py", "use":"vercel/python"}
-    ],
-    "routes" :[
-        { "src":"/(.*)", "dest" : "app.py"}
-    ]
-}
->>>>>>> 5f630366c94388d77839c17ef5798a09c75a1a53
+
