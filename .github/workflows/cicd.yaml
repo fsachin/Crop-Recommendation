@@ -4,7 +4,10 @@ name: CI/CD Pipeline for Crop Recommendation Project
 on:
   push:
     branches:
-      - main  # Adjust the branch based on your workflow
+      - master  # Adjust the branch based on your workflow
+  pull_request:
+    branches:
+      - master
 
 # Define the jobs that will run
 jobs:
